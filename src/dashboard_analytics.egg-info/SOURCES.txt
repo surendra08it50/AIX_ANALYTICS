@@ -1,0 +1,5 @@
+setup.py
+src/dashboard_analytics.egg-info/PKG-INFO
+src/dashboard_analytics.egg-info/SOURCES.txt
+src/dashboard_analytics.egg-info/dependency_links.txt
+src/dashboard_analytics.egg-info/top_level.txt
